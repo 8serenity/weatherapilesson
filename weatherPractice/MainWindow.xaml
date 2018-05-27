@@ -5,8 +5,54 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:weatherPractice"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="1000">
     <Grid>
+        <TextBlock Name="welcomeText" Text="Weather in Astana for 5 days" Height="20" Width="500" TextAlignment="Center" VerticalAlignment="Top" Margin="0 20 450 0" FontSize="16"/>
+        <TextBox  Name="citySelector" Margin="600,20,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Margin="350,20,0,0" Text="Enter your city:" Width="110" Height="20" VerticalAlignment="Top" FontSize="16"> </TextBlock>
+        <Button Height="20" Width="100" Content="Enter" Margin="850 20 0 0" VerticalAlignment="Top" Click="SearchClicked"></Button>
         
+        
+        
+        
+        <StackPanel Name="mainStackPanel" Orientation="Horizontal" Height="250" Width="900">
+            <StackPanel Name="panel1" Height="250" Width="180">
+                <TextBlock Text="27 May" HorizontalAlignment="Center" FontSize="36" />
+                <Image Name="image1" Height="60" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Text="20.5 C" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="3.95 m/s" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="85%" HorizontalAlignment="Center" FontSize="22" />
+            </StackPanel>
+            <StackPanel Name="panel2" Height="250" Width="180">
+                <TextBlock Text="27 May" HorizontalAlignment="Center" FontSize="36" />
+                <Image Name="image2" Height="60" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Text="20.5 C" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="3.95 m/s" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="85%" HorizontalAlignment="Center" FontSize="22" />
+            </StackPanel>
+            <StackPanel Name="panel3" Height="250" Width="180">
+                <TextBlock Text="27 May" HorizontalAlignment="Center" FontSize="36" />
+                <Image Name="image3" Height="60" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Text="20.5 C" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="3.95 m/s" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="85%" HorizontalAlignment="Center" FontSize="22" />
+            </StackPanel>
+            <StackPanel Name="panel4" Height="250" Width="180">
+                <TextBlock Text="27 May" HorizontalAlignment="Center" FontSize="36" />
+                <Image Name="image4" Height="60" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Text="20.5 C" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="3.95 m/s" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="85%" HorizontalAlignment="Center" FontSize="22" />
+            </StackPanel>
+            <StackPanel Name="panel5" Height="250" Width="180">
+                <TextBlock Text="27 May" HorizontalAlignment="Center" FontSize="36" />
+                <Image Name="image5" Height="60" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Text="20.5 C" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="3.95 m/s" HorizontalAlignment="Center" FontSize="22" />
+                <TextBlock Text="85%" HorizontalAlignment="Center" FontSize="22" />
+            </StackPanel>
+        </StackPanel>
+
+
     </Grid>
 </Window>

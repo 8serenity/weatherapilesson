@@ -16,3 +16,21 @@ c:\users\мухамедьян\source\repos\weatherPractice\weatherPractice\obj\D
 c:\users\мухамедьян\source\repos\weatherPractice\weatherPractice\obj\Debug\weatherPractice.csproj.CopyComplete
 c:\users\мухамедьян\source\repos\weatherPractice\weatherPractice\obj\Debug\weatherPractice.exe
 c:\users\мухамедьян\source\repos\weatherPractice\weatherPractice\obj\Debug\weatherPractice.pdb
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\bin\Debug\weatherPractice.exe.config
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\bin\Debug\weatherPractice.exe
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\bin\Debug\weatherPractice.pdb
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice.csprojResolveAssemblyReference.cache
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\MainWindow.g.cs
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\App.g.cs
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice_MarkupCompile.cache
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice_MarkupCompile.lref
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\MainWindow.baml
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice.g.resources
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice.Properties.Resources.resources
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice.csproj.GenerateResource.cache
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice.csproj.CoreCompileInputs.cache
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice.csproj.CopyComplete
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice.exe
+C:\Users\8\Documents\Visual Studio 2017\Projects\weatherapilesson\weatherPractice\obj\Debug\weatherPractice.pdb

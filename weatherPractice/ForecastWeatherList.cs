@@ -15,7 +15,9 @@ namespace weatherPractice
         public MainWeatherInfo MainInfo { get; set; }
         [JsonProperty("weather")]
         public List<Weather> ShortInfo { get; set; }
+        [JsonProperty("wind")]
+        public WindInfo WindInfo { get; set; }
         [JsonProperty("dt_txt")]
-        public string ForecastTime { get; set; }
+        public DateTime ForecastTime { get; set; }
     }
 }

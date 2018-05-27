@@ -16,6 +16,6 @@ namespace weatherPractice
         [JsonProperty("list")]
         public List<ForecastWeatherList> Forecasts { get; set; }
         [JsonProperty("city")]
-        public City city { get; set; }
+        public City City { get; set; }
     }
 }
